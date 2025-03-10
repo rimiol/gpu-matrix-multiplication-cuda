@@ -1,0 +1,3 @@
+C:/University/Supercomputers/gpu_matrix_multiplication_CUDA/Task2/build/CMakeFiles/matrix_mul_block.dir
+C:/University/Supercomputers/gpu_matrix_multiplication_CUDA/Task2/build/CMakeFiles/ALL_BUILD.dir
+C:/University/Supercomputers/gpu_matrix_multiplication_CUDA/Task2/build/CMakeFiles/ZERO_CHECK.dir

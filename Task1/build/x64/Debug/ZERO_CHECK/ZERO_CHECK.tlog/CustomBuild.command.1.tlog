@@ -1,0 +1,10 @@
+^C:\UNIVERSITY\SUPERCOMPUTERS\GPU_MATRIX_MULTIPLICATION_CUDA\TASK1\BUILD\CMAKEFILES\9053F1DB3895BF4CC086FCE929479B53\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/University/Supercomputers/gpu_matrix_multiplication_CUDA/Task1 -BC:/University/Supercomputers/gpu_matrix_multiplication_CUDA/Task1/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/University/Supercomputers/gpu_matrix_multiplication_CUDA/Task1/build/MatrixMulCuda.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

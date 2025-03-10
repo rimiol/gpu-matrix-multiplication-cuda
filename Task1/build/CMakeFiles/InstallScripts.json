@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/University/Supercomputers/gpu_matrix_multiplication_CUDA/Task1/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

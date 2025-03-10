@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\University\Supercomputers\gpu_matrix_multiplication_CUDA\Task1\build\CMakeFiles\9053f1db3895bf4cc086fce929479b53\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5487478A-0EEB-39EF-A7E0-6A4B4F4656B3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
